@@ -25,15 +25,19 @@ source-code and binary releases of the projectM development libraries and header
 
 ##### Windows
 
+- [Kodi Add-on](https://kodi.tv/addons/matrix/visualization.projectm)
 - [Standalone](https://github.com/projectM-visualizer/frontend-sdl2/releases) ([latest build](https://ci.appveyor.com/project/revmischa/projectm/build/artifacts))
   (Requires the
   latest [Visual C++ redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
   to run)
 - [Steam](https://store.steampowered.com/app/1358800/projectM_Music_Visualizer/)
+- [Winamp Plugin](https://sourceforge.net/projects/projectm/files/projectM-winamp/projectM-0.94%20Beta/projectM_for_Winamp_0_94_20.exe/download)
 - [Windows Store](https://www.microsoft.com/store/apps/9NDCVH0VCWJN)
+- [Windows Media Player Plugin](https://www.mediafire.com/file/4yj8nhvckln8cmd/projectM_WMP_update.zip/file)
 
 #### macOS
 
+- [Kodi add-on](https://kodi.tv/addons/matrix/visualization.projectm)
 - [Standalone](https://github.com/projectM-visualizer/frontend-sdl2/releases)
 - [Steam](https://store.steampowered.com/app/1358800/projectM_Music_Visualizer/)
 - [Music.app Plugin](https://github.com/projectM-visualizer/frontend-music-plug-in/releases)
@@ -49,6 +53,7 @@ source-code and binary releases of the projectM development libraries and header
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.psperl.prjM) (**Note**: This app is _not_ created or
   supported by the projectM developers!)
+- [Kodi Add-on](https://kodi.tv/addons/matrix/visualization.projectm)
 
 #### Xbox / Windows Phone
 
